@@ -1,0 +1,1 @@
+spago bundle-app --watch --to dist/app.js

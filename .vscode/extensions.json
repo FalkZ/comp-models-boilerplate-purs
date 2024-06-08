@@ -1,0 +1,7 @@
+{
+	"recommendations": [
+		"nwolverson.ide-purescript",
+		"ritwickdey.liveserver",
+		"dhall.dhall-lang"
+	]
+}
